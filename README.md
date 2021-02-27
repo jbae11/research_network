@@ -15,3 +15,11 @@ networkx to plot the network plot that connects the people and organization.
 2. Networkx
 
 # Warning
+
+# Goal Architecture
+
+The goal of this package is:
+- identify experts for a given field
+- get field-averaged statistics on citations and metrics
+- create a network of experts in a field, and find connections through authorship
+- 
